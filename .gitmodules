@@ -3,4 +3,4 @@
 	url = ./frontend/
 [submodule "backend"]
 	path = backend
-	url = ./backend/
+	url = ./backend
